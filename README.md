@@ -1,4 +1,4 @@
-#Excel2Protobuf
+Excel2Protobuf
 ====
 A game development tool that automatically packages the excle table , used by the game designer into the code used by the program.
 
