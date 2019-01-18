@@ -31,11 +31,17 @@ parameters
 
 -i --input_path input folder which contains excel files to convert.
       This script converts all excel file from that folder
+	  
 -d --data_out folder where serialized binary protobuf file exported
+
 -n --name_space specific the namespace of the exported code
+
 -c --csharp_out folder where auto generated C# script file(from protoc.exe) exported
+
 -s --server folder where auto generated server script file(from protoc.exe) exported
+
 -l --Server-side programm language eg.(cpp|csharp|java|go|js|objc|php|python|ruby )
+
 -p --java out package name 
 
 
