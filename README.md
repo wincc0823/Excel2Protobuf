@@ -27,7 +27,7 @@ Usage
 1. Make sure the form name is in English and begins with an uppercase letter
 2. Make sure that the first column of all tables is a unique index
 
-parameters
+parameters :
 
 -i --input_path input folder which contains excel files to convert.
       This script converts all excel file from that folder
