@@ -48,74 +48,73 @@ namespace ConfigData {
             "Cg9wcmVfYW5pbV9lZmZlY3QYKCABKAkSEQoJcG9zdF9hbmltGCkgASgJEhgK",
             "EHBvc3RfYW5pbV9lZmZlY3QYKiABKAkSEQoJcHVibGljX2NkGCsgASgCEhsK",
             "E3JhbmdlX2VmZl9wb3N0X3RpbWUYLCABKAISGAoQdGFyZ2V0bWF4X2dyb3d0",
-            "aBgtIAEoCSKiAgoQU2tpbGxEYXRhX0NvbmZpZxIKCgJpZBgBIAEoDRIWCg5u",
+            "aBgtIAEoCSKIAgoQU2tpbGxEYXRhX0NvbmZpZxIKCgJpZBgBIAEoDRIWCg5u",
             "YW1lX2dsb2JhbF9pZBgCIAEoCRIVCg1kZXNfZ2xvYmFsX2lkGAMgASgJEgwK",
             "BGljb24YBCABKAkSEQoJYWN0aXZlX2lkGAUgASgNEhIKCnBhc3NpdmVfaWQY",
-            "BiADKA0SEQoJbGV2ZWxfbWF4GAcgASgFEhYKDnN0cmVuZ3RoX3JhdGUxGAgg",
+            "BiABKA0SEQoJbGV2ZWxfbWF4GAcgASgFEhYKDnN0cmVuZ3RoX3JhdGUxGAgg",
             "ASgCEhYKDnN0cmVuZ3RoX3JhdGUyGAkgASgCEhYKDnN0cmVuZ3RoX3JhdGUz",
             "GAogASgCEhMKC2RlYnVnX2xldmVsGAsgASgFEhQKDGFjdGl2ZV9sZXZlbBgM",
-            "IAEoBRIYChBpY29uX3JlYWR5X2NvbG9yGA0gASgJIpkDChVEYXRhQ2hhbmdl",
-            "RnVuY19Db25maWcSCgoCaWQYASABKA0SDAoEdHlwZRgCIAEoCRIKCgJrMRgD",
-            "IAEoAhIKCgJrMhgEIAEoAhIKCgJrMxgFIAEoAhIRCglkYXRhX3R5cGUYBiAB",
-            "KA0SDgoGZGF0YWV4GAcgASgJEg8KB2RhdGFleDIYCCABKAkSFgoOZGF0YV9z",
-            "dGFydF9lZmYYCSABKAkSEAoIZGF0YV9lZmYYCiABKAkSFAoMZGF0YV9lbmRf",
-            "ZWZmGAsgASgJEhUKDWRhdGFfZWZmX3Byb2IYDCABKAISEQoJZGF0YV90aW1l",
-            "GA0gASgCEhQKDGRhdGFfaGl0X2ZseRgOIAEoCRITCgtidWZmX25hdHVyZRgP",
-            "IAEoBRIMCgRpY29uGBAgASgJEhUKDXN1cGVycG9zaXRpb24YESABKAUSFQoN",
-            "aWNvbl9wb3NpdGlvbhgSIAEoCRIMCgRtYXJrGBMgASgJEhoKEm1hcmtfYWZm",
-            "ZWN0ZWRfcmF0ZRgUIAEoBRITCgtncm93dGhfcHJvcBgVIAEoCSL9AgoTUGFz",
-            "c2l2ZVNwZWxsX0NvbmZpZxIKCgJpZBgBIAEoDRIYChBhY3RpdmVfY29uZGl0",
-            "aW9uGAIgASgJEhMKC2FjdGl2ZV90aW1lGAMgASgCEhkKEXRyaWdnZXJfY29u",
-            "ZGl0aW9uGAQgASgJEh8KF3RyaWdnZXJfY29uZGl0aW9uX3BhcmFtGAUgASgJ",
-            "EhsKE3RyaWdnZXJfcHJvYmFiaWxpdHkYBiABKAISEgoKdHJpZ2dlcl9jZBgH",
-            "IAEoBRIWCg5jb21tYW5kX3RhcmdldBgIIAEoCRIPCgdjb21tYW5kGAkgASgJ",
-            "EgwKBGRhdGEYCiABKA0SGAoQb3ZlcnJpZGVfZGF0YV9rMRgLIAEoBRIYChBv",
-            "dmVycmlkZV9kYXRhX2syGAwgASgFEhgKEG92ZXJyaWRlX2RhdGFfazMYDSAB",
-            "KAUSGgoSb3ZlcnJpZGVfZGF0YV90aW1lGA4gASgFEg4KBmVmZmVjdBgPIAEo",
-            "CRINCgVzY29yZRgQIAEoBSLcAgoTQ3JlYXRlQnVsbGV0X0NvbmZpZxIKCgJp",
-            "ZBgBIAEoDRINCgVwb2ludBgCIAEoCRIVCg1ob3Jpem9uX3NwZWVkGAMgASgC",
-            "EhgKEGhvcml6b250YWxfcmFuZ2UYBCABKAISFQoNdHJhY2VfbWlzc2lsZRgF",
-            "IAEoAhIXCg9wYXJhYm9sYV9oZWlnaHQYBiABKAISFAoMcGFyYWJvbGFfc3Jj",
-            "GAcgAygCEhcKD3BhcmFib2xhX2N0cmxfMRgIIAMoAhIXCg9wYXJhYm9sYV9j",
-            "dHJsXzIYCSADKAISFAoMcGFyYWJvbGFfZGVzGAogAygCEhkKEWhlaWdodF9v",
-            "ZmZzZXRfbWluGAsgASgCEhkKEWhlaWdodF9vZmZzZXRfbWF4GAwgASgCEhgK",
-            "EGRlc19yYW5nZV9vZmZzZXQYDSABKAISGwoTYmFsbGlzdGljX2NhbGNfcmF0",
-            "ZRgOIAEoAiKWAQoSU2tpbGxfTGV2ZWxfQ29uZmlnEgoKAmlkGAEgASgNEhAK",
-            "CHNraWxsX2lkGAIgASgNEhMKC2xldmVsX3N0YXJ0GAMgASgFEhEKCWxldmVs",
-            "X2VuZBgEIAEoBRIRCgltYXRlcmlhbHMYBSADKA0SEwoLbGV2ZWxfbGltaXQY",
-            "BiABKAUSEgoKcmFua19saW1pdBgHIAEoBSKFCQoRU3BlbGxfQ29uZmlnX0Rh",
-            "dGESWwoYQWN0aXZlU3BlbGxfQ29uZmlnX2l0ZW1zGAEgAygLMjkuQ29uZmln",
-            "RGF0YS5TcGVsbF9Db25maWdfRGF0YS5BY3RpdmVTcGVsbENvbmZpZ0l0ZW1z",
-            "RW50cnkSVwoWU2tpbGxEYXRhX0NvbmZpZ19pdGVtcxgCIAMoCzI3LkNvbmZp",
-            "Z0RhdGEuU3BlbGxfQ29uZmlnX0RhdGEuU2tpbGxEYXRhQ29uZmlnSXRlbXNF",
-            "bnRyeRJhChtEYXRhQ2hhbmdlRnVuY19Db25maWdfaXRlbXMYAyADKAsyPC5D",
-            "b25maWdEYXRhLlNwZWxsX0NvbmZpZ19EYXRhLkRhdGFDaGFuZ2VGdW5jQ29u",
-            "ZmlnSXRlbXNFbnRyeRJdChlQYXNzaXZlU3BlbGxfQ29uZmlnX2l0ZW1zGAQg",
-            "AygLMjouQ29uZmlnRGF0YS5TcGVsbF9Db25maWdfRGF0YS5QYXNzaXZlU3Bl",
-            "bGxDb25maWdJdGVtc0VudHJ5El0KGUNyZWF0ZUJ1bGxldF9Db25maWdfaXRl",
-            "bXMYBSADKAsyOi5Db25maWdEYXRhLlNwZWxsX0NvbmZpZ19EYXRhLkNyZWF0",
-            "ZUJ1bGxldENvbmZpZ0l0ZW1zRW50cnkSWgoYU2tpbGxfTGV2ZWxfQ29uZmln",
-            "X2l0ZW1zGAYgAygLMjguQ29uZmlnRGF0YS5TcGVsbF9Db25maWdfRGF0YS5T",
-            "a2lsbExldmVsQ29uZmlnSXRlbXNFbnRyeRpdChtBY3RpdmVTcGVsbENvbmZp",
-            "Z0l0ZW1zRW50cnkSCwoDa2V5GAEgASgNEi0KBXZhbHVlGAIgASgLMh4uQ29u",
-            "ZmlnRGF0YS5BY3RpdmVTcGVsbF9Db25maWc6AjgBGlkKGVNraWxsRGF0YUNv",
-            "bmZpZ0l0ZW1zRW50cnkSCwoDa2V5GAEgASgNEisKBXZhbHVlGAIgASgLMhwu",
-            "Q29uZmlnRGF0YS5Ta2lsbERhdGFfQ29uZmlnOgI4ARpjCh5EYXRhQ2hhbmdl",
-            "RnVuY0NvbmZpZ0l0ZW1zRW50cnkSCwoDa2V5GAEgASgNEjAKBXZhbHVlGAIg",
-            "ASgLMiEuQ29uZmlnRGF0YS5EYXRhQ2hhbmdlRnVuY19Db25maWc6AjgBGl8K",
-            "HFBhc3NpdmVTcGVsbENvbmZpZ0l0ZW1zRW50cnkSCwoDa2V5GAEgASgNEi4K",
-            "BXZhbHVlGAIgASgLMh8uQ29uZmlnRGF0YS5QYXNzaXZlU3BlbGxfQ29uZmln",
-            "OgI4ARpfChxDcmVhdGVCdWxsZXRDb25maWdJdGVtc0VudHJ5EgsKA2tleRgB",
-            "IAEoDRIuCgV2YWx1ZRgCIAEoCzIfLkNvbmZpZ0RhdGEuQ3JlYXRlQnVsbGV0",
-            "X0NvbmZpZzoCOAEaXAoaU2tpbGxMZXZlbENvbmZpZ0l0ZW1zRW50cnkSCwoD",
-            "a2V5GAEgASgNEi0KBXZhbHVlGAIgASgLMh4uQ29uZmlnRGF0YS5Ta2lsbF9M",
-            "ZXZlbF9Db25maWc6AjgBQiMKIWNvbS50cmluaXRpZ2FtZXMuc2VydmVyLmNv",
-            "bmYuYXV0b2IGcHJvdG8z"));
+            "IAEoBSKZAwoVRGF0YUNoYW5nZUZ1bmNfQ29uZmlnEgoKAmlkGAEgASgNEgwK",
+            "BHR5cGUYAiABKAkSCgoCazEYAyABKAISCgoCazIYBCABKAISCgoCazMYBSAB",
+            "KAISEQoJZGF0YV90eXBlGAYgASgNEg4KBmRhdGFleBgHIAEoCRIPCgdkYXRh",
+            "ZXgyGAggASgJEhYKDmRhdGFfc3RhcnRfZWZmGAkgASgJEhAKCGRhdGFfZWZm",
+            "GAogASgJEhQKDGRhdGFfZW5kX2VmZhgLIAEoCRIVCg1kYXRhX2VmZl9wcm9i",
+            "GAwgASgCEhEKCWRhdGFfdGltZRgNIAEoAhIUCgxkYXRhX2hpdF9mbHkYDiAB",
+            "KAkSEwoLYnVmZl9uYXR1cmUYDyABKAUSDAoEaWNvbhgQIAEoCRIVCg1zdXBl",
+            "cnBvc2l0aW9uGBEgASgFEhUKDWljb25fcG9zaXRpb24YEiABKAkSDAoEbWFy",
+            "axgTIAEoCRIaChJtYXJrX2FmZmVjdGVkX3JhdGUYFCABKAUSEwoLZ3Jvd3Ro",
+            "X3Byb3AYFSABKAki/QIKE1Bhc3NpdmVTcGVsbF9Db25maWcSCgoCaWQYASAB",
+            "KA0SGAoQYWN0aXZlX2NvbmRpdGlvbhgCIAEoCRITCgthY3RpdmVfdGltZRgD",
+            "IAEoAhIZChF0cmlnZ2VyX2NvbmRpdGlvbhgEIAEoCRIfChd0cmlnZ2VyX2Nv",
+            "bmRpdGlvbl9wYXJhbRgFIAEoCRIbChN0cmlnZ2VyX3Byb2JhYmlsaXR5GAYg",
+            "ASgCEhIKCnRyaWdnZXJfY2QYByABKAUSFgoOY29tbWFuZF90YXJnZXQYCCAB",
+            "KAkSDwoHY29tbWFuZBgJIAEoCRIMCgRkYXRhGAogASgNEhgKEG92ZXJyaWRl",
+            "X2RhdGFfazEYCyABKAUSGAoQb3ZlcnJpZGVfZGF0YV9rMhgMIAEoBRIYChBv",
+            "dmVycmlkZV9kYXRhX2szGA0gASgFEhoKEm92ZXJyaWRlX2RhdGFfdGltZRgO",
+            "IAEoBRIOCgZlZmZlY3QYDyABKAkSDQoFc2NvcmUYECABKAUi3AIKE0NyZWF0",
+            "ZUJ1bGxldF9Db25maWcSCgoCaWQYASABKA0SDQoFcG9pbnQYAiABKAkSFQoN",
+            "aG9yaXpvbl9zcGVlZBgDIAEoAhIYChBob3Jpem9udGFsX3JhbmdlGAQgASgC",
+            "EhUKDXRyYWNlX21pc3NpbGUYBSABKAISFwoPcGFyYWJvbGFfaGVpZ2h0GAYg",
+            "ASgCEhQKDHBhcmFib2xhX3NyYxgHIAMoAhIXCg9wYXJhYm9sYV9jdHJsXzEY",
+            "CCADKAISFwoPcGFyYWJvbGFfY3RybF8yGAkgAygCEhQKDHBhcmFib2xhX2Rl",
+            "cxgKIAMoAhIZChFoZWlnaHRfb2Zmc2V0X21pbhgLIAEoAhIZChFoZWlnaHRf",
+            "b2Zmc2V0X21heBgMIAEoAhIYChBkZXNfcmFuZ2Vfb2Zmc2V0GA0gASgCEhsK",
+            "E2JhbGxpc3RpY19jYWxjX3JhdGUYDiABKAIilgEKElNraWxsX0xldmVsX0Nv",
+            "bmZpZxIKCgJpZBgBIAEoDRIQCghza2lsbF9pZBgCIAEoDRITCgtsZXZlbF9z",
+            "dGFydBgDIAEoBRIRCglsZXZlbF9lbmQYBCABKAUSEQoJbWF0ZXJpYWxzGAUg",
+            "AygNEhMKC2xldmVsX2xpbWl0GAYgASgFEhIKCnJhbmtfbGltaXQYByABKAUi",
+            "hQkKEVNwZWxsX0NvbmZpZ19EYXRhElsKGEFjdGl2ZVNwZWxsX0NvbmZpZ19p",
+            "dGVtcxgBIAMoCzI5LkNvbmZpZ0RhdGEuU3BlbGxfQ29uZmlnX0RhdGEuQWN0",
+            "aXZlU3BlbGxDb25maWdJdGVtc0VudHJ5ElcKFlNraWxsRGF0YV9Db25maWdf",
+            "aXRlbXMYAiADKAsyNy5Db25maWdEYXRhLlNwZWxsX0NvbmZpZ19EYXRhLlNr",
+            "aWxsRGF0YUNvbmZpZ0l0ZW1zRW50cnkSYQobRGF0YUNoYW5nZUZ1bmNfQ29u",
+            "ZmlnX2l0ZW1zGAMgAygLMjwuQ29uZmlnRGF0YS5TcGVsbF9Db25maWdfRGF0",
+            "YS5EYXRhQ2hhbmdlRnVuY0NvbmZpZ0l0ZW1zRW50cnkSXQoZUGFzc2l2ZVNw",
+            "ZWxsX0NvbmZpZ19pdGVtcxgEIAMoCzI6LkNvbmZpZ0RhdGEuU3BlbGxfQ29u",
+            "ZmlnX0RhdGEuUGFzc2l2ZVNwZWxsQ29uZmlnSXRlbXNFbnRyeRJdChlDcmVh",
+            "dGVCdWxsZXRfQ29uZmlnX2l0ZW1zGAUgAygLMjouQ29uZmlnRGF0YS5TcGVs",
+            "bF9Db25maWdfRGF0YS5DcmVhdGVCdWxsZXRDb25maWdJdGVtc0VudHJ5EloK",
+            "GFNraWxsX0xldmVsX0NvbmZpZ19pdGVtcxgGIAMoCzI4LkNvbmZpZ0RhdGEu",
+            "U3BlbGxfQ29uZmlnX0RhdGEuU2tpbGxMZXZlbENvbmZpZ0l0ZW1zRW50cnka",
+            "XQobQWN0aXZlU3BlbGxDb25maWdJdGVtc0VudHJ5EgsKA2tleRgBIAEoDRIt",
+            "CgV2YWx1ZRgCIAEoCzIeLkNvbmZpZ0RhdGEuQWN0aXZlU3BlbGxfQ29uZmln",
+            "OgI4ARpZChlTa2lsbERhdGFDb25maWdJdGVtc0VudHJ5EgsKA2tleRgBIAEo",
+            "DRIrCgV2YWx1ZRgCIAEoCzIcLkNvbmZpZ0RhdGEuU2tpbGxEYXRhX0NvbmZp",
+            "ZzoCOAEaYwoeRGF0YUNoYW5nZUZ1bmNDb25maWdJdGVtc0VudHJ5EgsKA2tl",
+            "eRgBIAEoDRIwCgV2YWx1ZRgCIAEoCzIhLkNvbmZpZ0RhdGEuRGF0YUNoYW5n",
+            "ZUZ1bmNfQ29uZmlnOgI4ARpfChxQYXNzaXZlU3BlbGxDb25maWdJdGVtc0Vu",
+            "dHJ5EgsKA2tleRgBIAEoDRIuCgV2YWx1ZRgCIAEoCzIfLkNvbmZpZ0RhdGEu",
+            "UGFzc2l2ZVNwZWxsX0NvbmZpZzoCOAEaXwocQ3JlYXRlQnVsbGV0Q29uZmln",
+            "SXRlbXNFbnRyeRILCgNrZXkYASABKA0SLgoFdmFsdWUYAiABKAsyHy5Db25m",
+            "aWdEYXRhLkNyZWF0ZUJ1bGxldF9Db25maWc6AjgBGlwKGlNraWxsTGV2ZWxD",
+            "b25maWdJdGVtc0VudHJ5EgsKA2tleRgBIAEoDRItCgV2YWx1ZRgCIAEoCzIe",
+            "LkNvbmZpZ0RhdGEuU2tpbGxfTGV2ZWxfQ29uZmlnOgI4AUIjCiFjb20udHJp",
+            "bml0aWdhbWVzLnNlcnZlci5jb25mLmF1dG9iBnByb3RvMw=="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { },
           new pbr::GeneratedClrTypeInfo(null, new pbr::GeneratedClrTypeInfo[] {
             new pbr::GeneratedClrTypeInfo(typeof(global::ConfigData.ActiveSpell_Config), global::ConfigData.ActiveSpell_Config.Parser, new[]{ "Id", "Cd", "Cost", "PreConditionType", "PreConditionData", "TriggerAnimEffect", "TriggerFuncId", "TriggerOnMeFuncId", "RangeEff", "RangeEffTime", "TeamBuffEffect", "Infection", "BulletId", "BulletLaunchDelay", "BulletEffect", "BulletHit", "TriggerDelay", "DamageNumDelay", "ChainEffect", "ChainEffectHit", "ChainSpeed", "Sfx", "SfxTime", "CamBullet", "CamBulletHit", "BulletTarget", "DataTarget", "CamFeature", "CamTrigger", "DataParamSpeed", "TriggerLifeTime", "TriggerDeltaTime", "SpellAnimCanMove", "RangeEffPost", "SpellSound", "SpellTriggerSound", "SfxSound", "PreConditionDataex", "PreAnim", "PreAnimEffect", "PostAnim", "PostAnimEffect", "PublicCd", "RangeEffPostTime", "TargetmaxGrowth" }, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::ConfigData.SkillData_Config), global::ConfigData.SkillData_Config.Parser, new[]{ "Id", "NameGlobalId", "DesGlobalId", "Icon", "ActiveId", "PassiveId", "LevelMax", "StrengthRate1", "StrengthRate2", "StrengthRate3", "DebugLevel", "ActiveLevel", "IconReadyColor" }, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::ConfigData.SkillData_Config), global::ConfigData.SkillData_Config.Parser, new[]{ "Id", "NameGlobalId", "DesGlobalId", "Icon", "ActiveId", "PassiveId", "LevelMax", "StrengthRate1", "StrengthRate2", "StrengthRate3", "DebugLevel", "ActiveLevel" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::ConfigData.DataChangeFunc_Config), global::ConfigData.DataChangeFunc_Config.Parser, new[]{ "Id", "Type", "K1", "K2", "K3", "DataType", "Dataex", "Dataex2", "DataStartEff", "DataEff", "DataEndEff", "DataEffProb", "DataTime", "DataHitFly", "BuffNature", "Icon", "Superposition", "IconPosition", "Mark", "MarkAffectedRate", "GrowthProp" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::ConfigData.PassiveSpell_Config), global::ConfigData.PassiveSpell_Config.Parser, new[]{ "Id", "ActiveCondition", "ActiveTime", "TriggerCondition", "TriggerConditionParam", "TriggerProbability", "TriggerCd", "CommandTarget", "Command", "Data", "OverrideDataK1", "OverrideDataK2", "OverrideDataK3", "OverrideDataTime", "Effect", "Score" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::ConfigData.CreateBullet_Config), global::ConfigData.CreateBullet_Config.Parser, new[]{ "Id", "Point", "HorizonSpeed", "HorizontalRange", "TraceMissile", "ParabolaHeight", "ParabolaSrc", "ParabolaCtrl1", "ParabolaCtrl2", "ParabolaDes", "HeightOffsetMin", "HeightOffsetMax", "DesRangeOffset", "BallisticCalcRate" }, null, null, null),
@@ -527,7 +526,7 @@ namespace ConfigData {
     public const int CamBulletFieldNumber = 24;
     private uint camBullet_;
     /// <summary>
-    ///* 子弹跟随镜头（子弹起始镜头，与触发镜头冲突） 
+    ///* 子弹跟随镜头 
     /// </summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public uint CamBullet {
@@ -541,7 +540,7 @@ namespace ConfigData {
     public const int CamBulletHitFieldNumber = 25;
     private uint camBulletHit_;
     /// <summary>
-    ///* 子弹爆炸镜头（子弹结束镜头，与触发镜头冲突） 
+    ///* 子弹爆炸镜头 
     /// </summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public uint CamBulletHit {
@@ -583,7 +582,7 @@ namespace ConfigData {
     public const int CamFeatureFieldNumber = 28;
     private uint camFeature_;
     /// <summary>
-    ///* 特写镜头（shake时的后背镜头） 
+    ///* 特写镜头 
     /// </summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public uint CamFeature {
@@ -597,7 +596,7 @@ namespace ConfigData {
     public const int CamTriggerFieldNumber = 29;
     private uint camTrigger_;
     /// <summary>
-    ///* 触发镜头（综合子弹跟随和爆炸后的统一镜头，与子弹跟随和爆炸冲突） 
+    ///* 触发镜头 
     /// </summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public uint CamTrigger {
@@ -1615,14 +1614,13 @@ namespace ConfigData {
       desGlobalId_ = other.desGlobalId_;
       icon_ = other.icon_;
       activeId_ = other.activeId_;
-      passiveId_ = other.passiveId_.Clone();
+      passiveId_ = other.passiveId_;
       levelMax_ = other.levelMax_;
       strengthRate1_ = other.strengthRate1_;
       strengthRate2_ = other.strengthRate2_;
       strengthRate3_ = other.strengthRate3_;
       debugLevel_ = other.debugLevel_;
       activeLevel_ = other.activeLevel_;
-      iconReadyColor_ = other.iconReadyColor_;
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -1703,15 +1701,16 @@ namespace ConfigData {
 
     /// <summary>Field number for the "passive_id" field.</summary>
     public const int PassiveIdFieldNumber = 6;
-    private static readonly pb::FieldCodec<uint> _repeated_passiveId_codec
-        = pb::FieldCodec.ForUInt32(50);
-    private readonly pbc::RepeatedField<uint> passiveId_ = new pbc::RepeatedField<uint>();
+    private uint passiveId_;
     /// <summary>
     ///* 被动技能ID 
     /// </summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    public pbc::RepeatedField<uint> PassiveId {
+    public uint PassiveId {
       get { return passiveId_; }
+      set {
+        passiveId_ = value;
+      }
     }
 
     /// <summary>Field number for the "level_max" field.</summary>
@@ -1798,20 +1797,6 @@ namespace ConfigData {
       }
     }
 
-    /// <summary>Field number for the "icon_ready_color" field.</summary>
-    public const int IconReadyColorFieldNumber = 13;
-    private string iconReadyColor_ = "";
-    /// <summary>
-    ///* 技能准备好叠加颜色 
-    /// </summary>
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    public string IconReadyColor {
-      get { return iconReadyColor_; }
-      set {
-        iconReadyColor_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
-      }
-    }
-
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public override bool Equals(object other) {
       return Equals(other as SkillData_Config);
@@ -1830,14 +1815,13 @@ namespace ConfigData {
       if (DesGlobalId != other.DesGlobalId) return false;
       if (Icon != other.Icon) return false;
       if (ActiveId != other.ActiveId) return false;
-      if(!passiveId_.Equals(other.passiveId_)) return false;
+      if (PassiveId != other.PassiveId) return false;
       if (LevelMax != other.LevelMax) return false;
       if (!pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.Equals(StrengthRate1, other.StrengthRate1)) return false;
       if (!pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.Equals(StrengthRate2, other.StrengthRate2)) return false;
       if (!pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.Equals(StrengthRate3, other.StrengthRate3)) return false;
       if (DebugLevel != other.DebugLevel) return false;
       if (ActiveLevel != other.ActiveLevel) return false;
-      if (IconReadyColor != other.IconReadyColor) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -1849,14 +1833,13 @@ namespace ConfigData {
       if (DesGlobalId.Length != 0) hash ^= DesGlobalId.GetHashCode();
       if (Icon.Length != 0) hash ^= Icon.GetHashCode();
       if (ActiveId != 0) hash ^= ActiveId.GetHashCode();
-      hash ^= passiveId_.GetHashCode();
+      if (PassiveId != 0) hash ^= PassiveId.GetHashCode();
       if (LevelMax != 0) hash ^= LevelMax.GetHashCode();
       if (StrengthRate1 != 0F) hash ^= pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.GetHashCode(StrengthRate1);
       if (StrengthRate2 != 0F) hash ^= pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.GetHashCode(StrengthRate2);
       if (StrengthRate3 != 0F) hash ^= pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.GetHashCode(StrengthRate3);
       if (DebugLevel != 0) hash ^= DebugLevel.GetHashCode();
       if (ActiveLevel != 0) hash ^= ActiveLevel.GetHashCode();
-      if (IconReadyColor.Length != 0) hash ^= IconReadyColor.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -1890,7 +1873,10 @@ namespace ConfigData {
         output.WriteRawTag(40);
         output.WriteUInt32(ActiveId);
       }
-      passiveId_.WriteTo(output, _repeated_passiveId_codec);
+      if (PassiveId != 0) {
+        output.WriteRawTag(48);
+        output.WriteUInt32(PassiveId);
+      }
       if (LevelMax != 0) {
         output.WriteRawTag(56);
         output.WriteInt32(LevelMax);
@@ -1915,10 +1901,6 @@ namespace ConfigData {
         output.WriteRawTag(96);
         output.WriteInt32(ActiveLevel);
       }
-      if (IconReadyColor.Length != 0) {
-        output.WriteRawTag(106);
-        output.WriteString(IconReadyColor);
-      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
@@ -1942,7 +1924,9 @@ namespace ConfigData {
       if (ActiveId != 0) {
         size += 1 + pb::CodedOutputStream.ComputeUInt32Size(ActiveId);
       }
-      size += passiveId_.CalculateSize(_repeated_passiveId_codec);
+      if (PassiveId != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeUInt32Size(PassiveId);
+      }
       if (LevelMax != 0) {
         size += 1 + pb::CodedOutputStream.ComputeInt32Size(LevelMax);
       }
@@ -1960,9 +1944,6 @@ namespace ConfigData {
       }
       if (ActiveLevel != 0) {
         size += 1 + pb::CodedOutputStream.ComputeInt32Size(ActiveLevel);
-      }
-      if (IconReadyColor.Length != 0) {
-        size += 1 + pb::CodedOutputStream.ComputeStringSize(IconReadyColor);
       }
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
@@ -1990,7 +1971,9 @@ namespace ConfigData {
       if (other.ActiveId != 0) {
         ActiveId = other.ActiveId;
       }
-      passiveId_.Add(other.passiveId_);
+      if (other.PassiveId != 0) {
+        PassiveId = other.PassiveId;
+      }
       if (other.LevelMax != 0) {
         LevelMax = other.LevelMax;
       }
@@ -2008,9 +1991,6 @@ namespace ConfigData {
       }
       if (other.ActiveLevel != 0) {
         ActiveLevel = other.ActiveLevel;
-      }
-      if (other.IconReadyColor.Length != 0) {
-        IconReadyColor = other.IconReadyColor;
       }
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
@@ -2043,9 +2023,8 @@ namespace ConfigData {
             ActiveId = input.ReadUInt32();
             break;
           }
-          case 50:
           case 48: {
-            passiveId_.AddEntriesFrom(input, _repeated_passiveId_codec);
+            PassiveId = input.ReadUInt32();
             break;
           }
           case 56: {
@@ -2070,10 +2049,6 @@ namespace ConfigData {
           }
           case 96: {
             ActiveLevel = input.ReadInt32();
-            break;
-          }
-          case 106: {
-            IconReadyColor = input.ReadString();
             break;
           }
         }
