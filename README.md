@@ -28,6 +28,7 @@ Usage
 2. Make sure that the first column of all tables is a unique index
 
 parameters
+
 -i --input_path input folder which contains excel files to convert.
       This script converts all excel file from that folder
 -d --data_out folder where serialized binary protobuf file exported
