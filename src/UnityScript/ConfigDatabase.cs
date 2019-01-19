@@ -1,6 +1,6 @@
 ﻿/*
- * Author:  dongyiqi @ Triniti Interactive
- * Copyright (c) dongyiqi All rights reserved.
+ * Author:   Triniti Interactive
+ * Copyright (c) Triniti Interactive All rights reserved.
  * 2018-12-7 
  * This code is licensed under the MIT License (MIT).
  * THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF
